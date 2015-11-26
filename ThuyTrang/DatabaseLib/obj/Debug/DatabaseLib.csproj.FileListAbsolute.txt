@@ -1,0 +1,10 @@
+T:\PTUDGD\ThuyTrang\DatabaseLib\obj\Debug\DatabaseLib.csprojResolveAssemblyReference.cache
+T:\PTUDGD\ThuyTrang\DatabaseLib\bin\Debug\DatabaseLib.dll
+T:\PTUDGD\ThuyTrang\DatabaseLib\bin\Debug\DatabaseLib.pdb
+T:\PTUDGD\ThuyTrang\DatabaseLib\obj\Debug\DatabaseLib.dll
+T:\PTUDGD\ThuyTrang\DatabaseLib\obj\Debug\DatabaseLib.pdb
+E:\Desktop\Study\HK3\GiaoDien\thuchanh\ThuyTrang\DatabaseLib\bin\Debug\DatabaseLib.dll
+E:\Desktop\Study\HK3\GiaoDien\thuchanh\ThuyTrang\DatabaseLib\bin\Debug\DatabaseLib.pdb
+E:\Desktop\Study\HK3\GiaoDien\thuchanh\ThuyTrang\DatabaseLib\obj\Debug\DatabaseLib.csprojResolveAssemblyReference.cache
+E:\Desktop\Study\HK3\GiaoDien\thuchanh\ThuyTrang\DatabaseLib\obj\Debug\DatabaseLib.dll
+E:\Desktop\Study\HK3\GiaoDien\thuchanh\ThuyTrang\DatabaseLib\obj\Debug\DatabaseLib.pdb

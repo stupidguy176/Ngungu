@@ -1,0 +1,14 @@
+T:\PTUDGD\ThuyTrang\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+T:\PTUDGD\ThuyTrang\DataAccess\bin\Debug\DataAccess.dll
+T:\PTUDGD\ThuyTrang\DataAccess\bin\Debug\DataAccess.pdb
+T:\PTUDGD\ThuyTrang\DataAccess\bin\Debug\DatabaseLib.dll
+T:\PTUDGD\ThuyTrang\DataAccess\obj\Debug\DataAccess.dll
+T:\PTUDGD\ThuyTrang\DataAccess\obj\Debug\DataAccess.pdb
+T:\PTUDGD\ThuyTrang\DataAccess\bin\Debug\DatabaseLib.pdb
+E:\Desktop\Study\HK3\GiaoDien\thuchanh\ThuyTrang\DataAccess\bin\Debug\DataAccess.dll
+E:\Desktop\Study\HK3\GiaoDien\thuchanh\ThuyTrang\DataAccess\bin\Debug\DataAccess.pdb
+E:\Desktop\Study\HK3\GiaoDien\thuchanh\ThuyTrang\DataAccess\bin\Debug\DatabaseLib.dll
+E:\Desktop\Study\HK3\GiaoDien\thuchanh\ThuyTrang\DataAccess\bin\Debug\DatabaseLib.pdb
+E:\Desktop\Study\HK3\GiaoDien\thuchanh\ThuyTrang\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\Desktop\Study\HK3\GiaoDien\thuchanh\ThuyTrang\DataAccess\obj\Debug\DataAccess.dll
+E:\Desktop\Study\HK3\GiaoDien\thuchanh\ThuyTrang\DataAccess\obj\Debug\DataAccess.pdb
