@@ -1,0 +1,5 @@
+C:\__2015_HK1\Win_Thu5_Ca03\DatabaseLib\bin\Debug\DatabaseLib.dll
+C:\__2015_HK1\Win_Thu5_Ca03\DatabaseLib\bin\Debug\DatabaseLib.pdb
+C:\__2015_HK1\Win_Thu5_Ca03\DatabaseLib\obj\Debug\DatabaseLib.csprojResolveAssemblyReference.cache
+C:\__2015_HK1\Win_Thu5_Ca03\DatabaseLib\obj\Debug\DatabaseLib.dll
+C:\__2015_HK1\Win_Thu5_Ca03\DatabaseLib\obj\Debug\DatabaseLib.pdb

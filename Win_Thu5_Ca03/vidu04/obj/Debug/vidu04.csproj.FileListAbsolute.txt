@@ -1,0 +1,9 @@
+C:\__2015_HK1\Win_Thu5_Ca03\vidu04\bin\Debug\vidu04.exe.config
+C:\__2015_HK1\Win_Thu5_Ca03\vidu04\obj\Debug\vidu04.csprojResolveAssemblyReference.cache
+C:\__2015_HK1\Win_Thu5_Ca03\vidu04\obj\Debug\vidu04.HanghoaForm.resources
+C:\__2015_HK1\Win_Thu5_Ca03\vidu04\obj\Debug\vidu04.Properties.Resources.resources
+C:\__2015_HK1\Win_Thu5_Ca03\vidu04\obj\Debug\vidu04.csproj.GenerateResource.Cache
+C:\__2015_HK1\Win_Thu5_Ca03\vidu04\bin\Debug\vidu04.exe
+C:\__2015_HK1\Win_Thu5_Ca03\vidu04\bin\Debug\vidu04.pdb
+C:\__2015_HK1\Win_Thu5_Ca03\vidu04\obj\Debug\vidu04.exe
+C:\__2015_HK1\Win_Thu5_Ca03\vidu04\obj\Debug\vidu04.pdb

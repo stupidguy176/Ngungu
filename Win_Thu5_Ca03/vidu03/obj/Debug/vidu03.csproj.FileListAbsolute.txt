@@ -1,0 +1,9 @@
+C:\__2015_HK1\Win_Thu5_Ca03\vidu03\bin\Debug\vidu03.exe.config
+C:\__2015_HK1\Win_Thu5_Ca03\vidu03\bin\Debug\vidu03.exe
+C:\__2015_HK1\Win_Thu5_Ca03\vidu03\bin\Debug\vidu03.pdb
+C:\__2015_HK1\Win_Thu5_Ca03\vidu03\obj\Debug\vidu03.csprojResolveAssemblyReference.cache
+C:\__2015_HK1\Win_Thu5_Ca03\vidu03\obj\Debug\vidu03.Properties.Resources.resources
+C:\__2015_HK1\Win_Thu5_Ca03\vidu03\obj\Debug\vidu03.sinhvienMainForm.resources
+C:\__2015_HK1\Win_Thu5_Ca03\vidu03\obj\Debug\vidu03.csproj.GenerateResource.Cache
+C:\__2015_HK1\Win_Thu5_Ca03\vidu03\obj\Debug\vidu03.exe
+C:\__2015_HK1\Win_Thu5_Ca03\vidu03\obj\Debug\vidu03.pdb

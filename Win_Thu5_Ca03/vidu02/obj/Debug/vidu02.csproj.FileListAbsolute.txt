@@ -1,0 +1,6 @@
+C:\__2015_HK1\Win_Thu5_Ca03\vidu02\bin\Debug\vidu02.exe.config
+C:\__2015_HK1\Win_Thu5_Ca03\vidu02\bin\Debug\vidu02.exe
+C:\__2015_HK1\Win_Thu5_Ca03\vidu02\bin\Debug\vidu02.pdb
+C:\__2015_HK1\Win_Thu5_Ca03\vidu02\obj\Debug\vidu02.csprojResolveAssemblyReference.cache
+C:\__2015_HK1\Win_Thu5_Ca03\vidu02\obj\Debug\vidu02.exe
+C:\__2015_HK1\Win_Thu5_Ca03\vidu02\obj\Debug\vidu02.pdb

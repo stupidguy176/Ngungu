@@ -1,0 +1,13 @@
+C:\__2015_HK1\Win_Thu5_Ca03\vidu05\bin\Debug\vidu05.exe.config
+C:\__2015_HK1\Win_Thu5_Ca03\vidu05\obj\Debug\vidu05.csprojResolveAssemblyReference.cache
+C:\__2015_HK1\Win_Thu5_Ca03\vidu05\obj\Debug\vidu05.HanghoaForm.resources
+C:\__2015_HK1\Win_Thu5_Ca03\vidu05\obj\Debug\vidu05.Properties.Resources.resources
+C:\__2015_HK1\Win_Thu5_Ca03\vidu05\obj\Debug\vidu05.csproj.GenerateResource.Cache
+C:\__2015_HK1\Win_Thu5_Ca03\vidu05\bin\Debug\vidu05.exe
+C:\__2015_HK1\Win_Thu5_Ca03\vidu05\bin\Debug\vidu05.pdb
+C:\__2015_HK1\Win_Thu5_Ca03\vidu05\bin\Debug\DatabaseLib.dll
+C:\__2015_HK1\Win_Thu5_Ca03\vidu05\bin\Debug\DatabaseLib.pdb
+C:\__2015_HK1\Win_Thu5_Ca03\vidu05\obj\Debug\vidu05.exe
+C:\__2015_HK1\Win_Thu5_Ca03\vidu05\obj\Debug\vidu05.pdb
+C:\__2015_HK1\Win_Thu5_Ca03\vidu05\bin\Debug\DataAccess.dll
+C:\__2015_HK1\Win_Thu5_Ca03\vidu05\bin\Debug\DataAccess.pdb

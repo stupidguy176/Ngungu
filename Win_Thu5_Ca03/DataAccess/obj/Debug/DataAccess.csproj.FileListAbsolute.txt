@@ -1,0 +1,7 @@
+C:\__2015_HK1\Win_Thu5_Ca03\DataAccess\bin\Debug\DataAccess.dll
+C:\__2015_HK1\Win_Thu5_Ca03\DataAccess\bin\Debug\DataAccess.pdb
+C:\__2015_HK1\Win_Thu5_Ca03\DataAccess\bin\Debug\DatabaseLib.dll
+C:\__2015_HK1\Win_Thu5_Ca03\DataAccess\bin\Debug\DatabaseLib.pdb
+C:\__2015_HK1\Win_Thu5_Ca03\DataAccess\obj\Debug\DataAccess.dll
+C:\__2015_HK1\Win_Thu5_Ca03\DataAccess\obj\Debug\DataAccess.pdb
+C:\__2015_HK1\Win_Thu5_Ca03\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
